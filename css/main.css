@@ -1,11 +1,47 @@
 html {
-
+  line-height: 1.5;
+  font-family: Georgia, sans-serif;
 }
 
 .nav {
+  margin: 0;
   list-style-type: none;
+  text-align: center;
+  padding: .75em;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 0;
 }
 
 header {
   background-color: #ffe500;
+  padding: 1em;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sigmar One', cursive;
+  color: #b20953;
+  margin: 0;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.nav a {
+  background-color: #b2a212;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1.125rem;
+  padding: 0.5em 0.75em;
+
+}
+
+.nav a:hover {
+  background-color: #cc1465;
 }
