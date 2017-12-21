@@ -45,7 +45,7 @@ h1 {
   background-color: #cc1465;
 }
 
-h2 {
+main h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   margin: .3em;
@@ -61,7 +61,7 @@ footer {
   font-size: .75em;
 }
 
-div {
+main {
   margin: .3em;
   padding: .3em;
 }
