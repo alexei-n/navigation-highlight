@@ -44,3 +44,26 @@ h1 {
 .nav a:hover {
   background-color: #cc1465;
 }
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+  color: #b20953;
+  margin: .3em;
+  text-align: left;
+  font-size: 1.875rem;
+}
+
+footer {
+  text-align: center;
+  background-color: #ffe500;
+  padding: .75em;
+}
+
+img {
+  width: 100%;
+  margin: 0;
+}
+
+figure {
+  margin: 0.3em;
+}
