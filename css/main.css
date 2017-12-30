@@ -86,3 +86,7 @@ p {
 }
 
 /* This is a comment to see if it'll make Markbot cooperate */
+
+* {
+  margin: 0;
+}
