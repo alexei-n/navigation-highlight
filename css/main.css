@@ -1,6 +1,7 @@
 html {
   line-height: 1.5;
   font-family: Georgia, sans-serif;
+  box-sizing: content-box;
 }
 
 .nav {
@@ -68,7 +69,7 @@ main {
 
 img {
   width: 100%;
-  display: inline-block;
+  display: block;
 }
 
 figure {
