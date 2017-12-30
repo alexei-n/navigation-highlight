@@ -50,13 +50,14 @@ main h2 {
   color: #b20953;
   text-align: left;
   font-size: 1.875rem;
+  margin: .5em 0 .75em;
 }
 
 footer {
   text-align: center;
   background-color: #ffe500;
-  padding: 1.5em;
-  font-size: .75em;
+  padding: .5em;
+
 }
 
 main {
