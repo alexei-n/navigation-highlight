@@ -1,7 +1,7 @@
 html {
   line-height: 1.5;
   font-family: Georgia, sans-serif;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 .nav {
